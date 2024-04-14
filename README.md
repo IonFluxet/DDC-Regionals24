@@ -59,3 +59,19 @@ Jeg syntes det er nemmere at kigge alle tables igennem ved at eksportere databas
 - Vi kan se 5 koder, LKJ73, HDH79, VCS13, LÆD72, SJV4W.
 - Når vi sætter dem sammen får vi:
 #### Flag: DDC{LKJ73-HDH79-VCS13-LÆD72-SJV4W}
+
+# Spin2win
+Jeg har brugt GIMP til denne opgave
+Jeg har fået udlevet et billede hvorpå flaget står, der er dog lige det at billedet er blevet warpet så det er ulæseligt!
+
+![image](https://github.com/L30HP/DDC-Regionals24/assets/93826052/e32341c1-435b-41b8-b79a-375b675fbaeb)
+
+- Inde i gimp er der et tool der hedder Warp tranform
+
+ ![image](https://github.com/L30HP/DDC-Regionals24/assets/93826052/e6920112-d64b-4fe4-9b92-1275d9f1ff8c)
+
+- Jeg brugte toolet på centeret af spiralen og gjorde det indtil jeg havde noget der var læsebart
+
+  ![image](https://github.com/L30HP/DDC-Regionals24/assets/93826052/89bbf43b-1e19-43a7-8e60-e8b3d1e5fbb9)
+
+#### Flag: DDC{y0u-Sp1n-m3-R1gh1-R0und-34bY}
