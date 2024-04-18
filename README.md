@@ -1,5 +1,5 @@
 # DDC-Regionals24
-Writeup DDC-regionals
+My writeup DDC-regionals
 
 
 ## Drilske Dæknavne - Email
